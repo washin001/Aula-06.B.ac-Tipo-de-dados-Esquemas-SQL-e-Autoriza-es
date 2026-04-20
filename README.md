@@ -1,0 +1,1 @@
+# Aula-06.B.ac-Tipo-de-dados-Esquemas-SQL-e-Autoriza-es
